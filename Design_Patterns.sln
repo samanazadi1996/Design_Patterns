@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype", "Prototype\Prot
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Facade", "Facade\Facade.csproj", "{7A54BEF1-AEB2-4E26-9DF7-B7553051B575}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sterategy", "Sterategy\Sterategy.csproj", "{DEC3DB7C-FAD0-4BE7-B75F-F51ABC1EE6F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sterategy", "Sterategy\Sterategy.csproj", "{DEC3DB7C-FAD0-4BE7-B75F-F51ABC1EE6F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{8676261A-037E-4139-9982-14CD99F4F82D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{DEC3DB7C-FAD0-4BE7-B75F-F51ABC1EE6F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEC3DB7C-FAD0-4BE7-B75F-F51ABC1EE6F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEC3DB7C-FAD0-4BE7-B75F-F51ABC1EE6F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8676261A-037E-4139-9982-14CD99F4F82D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8676261A-037E-4139-9982-14CD99F4F82D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8676261A-037E-4139-9982-14CD99F4F82D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8676261A-037E-4139-9982-14CD99F4F82D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
